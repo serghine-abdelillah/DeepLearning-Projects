@@ -5,3 +5,4 @@ This repository contains a collection of deep learning projects that showcase ap
 - **Natural Language Processing (NLP)** : Text classification, sentiment analysis, and sequence models (RNN/LSTM/GRU).
 - **Generative Models** : Autoencoders and GANs for feature extraction and synthetic data generation.
 - **Transfer Learning** : Fine-tuning pre-trained models (ResNet, BERT, etc.) on domain-specific datasets.
+- **Time Series Forecasting** : Predicting sequences with LSTMs and attention-based models.
