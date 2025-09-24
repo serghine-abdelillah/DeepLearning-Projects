@@ -7,4 +7,4 @@ This repository contains a collection of deep learning projects that showcase ap
 - **Transfer Learning** : Fine-tuning pre-trained models (ResNet, BERT, etc.) on domain-specific datasets.
 - **Time Series Forecasting** : Predicting sequences with LSTMs and attention-based models.
 - **Model Optimization** : Techniques such as dropout, batch normalization, and hyperparameter tuning.
-  ## ⚙️ Tech Stack
+## ⚙️ Tech Stack
