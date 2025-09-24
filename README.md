@@ -9,3 +9,4 @@ This repository contains a collection of deep learning projects that showcase ap
 - **Model Optimization** : Techniques such as dropout, batch normalization, and hyperparameter tuning.
 ## ⚙️ Tech Stack
 - **Languages** : Python
+- **Libraries** : TensorFlow, Keras, PyTorch, Hugging Face Transformers
