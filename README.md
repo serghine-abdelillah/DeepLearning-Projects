@@ -10,3 +10,4 @@ This repository contains a collection of deep learning projects that showcase ap
 ## ⚙️ Tech Stack
 - **Languages** : Python
 - **Libraries** : TensorFlow, Keras, PyTorch, Hugging Face Transformers
+- **Tools** : Jupyter Notebook, Weights & Biases (W&B) / TensorBoard for tracking, Streamlit/Flask for deployment
