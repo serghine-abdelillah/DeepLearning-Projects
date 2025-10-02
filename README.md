@@ -16,3 +16,4 @@ This repository contains a collection of deep learning projects that showcase ap
 - Gain hands-on experience with computer vision, NLP, and generative models.
 - Learn how to train, evaluate, and deploy deep learning models at scale.
 ## 🚀 How to Use
+**1.** Clone the repository:
