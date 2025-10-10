@@ -18,5 +18,4 @@ This repository contains a collection of deep learning projects that showcase ap
 ## 🚀 How to Use
 **1.** Clone the repository:
 `git clone https://github.com/serghine-abdelillah/DeepLearning-Projects.git`\
-**2.** Open any project in Jupyter Notebook or run training scripts:
-`jupyter notebook`
+**2.** Open any project in Jupyter Notebook and run training scripts
