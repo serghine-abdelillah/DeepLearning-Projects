@@ -21,3 +21,11 @@ It analyzes URL patterns and structural features to help users identify phishing
 
 These extracted features are then passed into a trained LSTM neural network, which outputs a binary classification.
 ## 🛠️ Tech Stack
+| Component                  | Description                  |
+| -------------------------- | ---------------------------- |
+| **Python**                 | Core language                |
+| **TensorFlow / Keras**     | Model training and inference |
+| **Gradio**                 | Web UI interface             |
+| **tldextract, urllib, re** | URL feature extraction       |
+| **LSTM (Deep Learning)**   | Detection model architecture |
+
