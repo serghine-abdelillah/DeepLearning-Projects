@@ -17,7 +17,7 @@ It analyzes URL patterns and structural features to help users identify phishing
 - Use of shortening services (e.g., bit.ly, tinyurl)
 - Number of dots, slashes, or special symbols
 - Suspicious keywords (e.g., login, paypal, bank, free)
-- URL and domain lengths\
-  
+- URL and domain lengths
+
 These extracted features are then passed into a trained LSTM neural network, which outputs a binary classification.
 
