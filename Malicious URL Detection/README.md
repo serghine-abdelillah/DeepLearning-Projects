@@ -20,4 +20,4 @@ It analyzes URL patterns and structural features to help users identify phishing
 - URL and domain lengths
 
 These extracted features are then passed into a trained LSTM neural network, which outputs a binary classification.
-
+## 🛠️ Tech Stack
