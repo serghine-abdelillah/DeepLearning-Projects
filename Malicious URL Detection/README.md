@@ -32,8 +32,11 @@ These extracted features are then passed into a trained LSTM neural network, whi
 ## 📦 Installation
 ```bash
 
-git clone https://github.com/<your-username>/malicious-url-detector.git
-cd malicious-url-detector
-
+git clone https://github.com/serghine-abdelillah/DeepLearning-Projects.git
+```
+```bash
+cd Malicious URL Detection
+```
+```bash
 pip install -r requirements.txt
-
+```
