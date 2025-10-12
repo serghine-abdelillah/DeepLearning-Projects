@@ -29,3 +29,11 @@ These extracted features are then passed into a trained LSTM neural network, whi
 | **tldextract, urllib, re** | URL feature extraction       |
 | **LSTM (Deep Learning)**   | Detection model architecture |
 
+## 📦 Installation
+```bash
+
+git clone https://github.com/<your-username>/malicious-url-detector.git
+cd malicious-url-detector
+
+pip install -r requirements.txt
+
