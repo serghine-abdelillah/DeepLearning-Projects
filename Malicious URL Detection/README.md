@@ -56,3 +56,6 @@ Then open the Gradio interface link in your browser and enter any URL to test.
 - **Output:** Binary classification (Benign / Malicious)
 - **Activation:** Sigmoid
 - **Threshold:** 0.85 (above = Benign, below = Malicious)
+
+## 🤝 Contributing
+Pull requests are welcome! please open an issue first to discuss what you’d like to improve.
