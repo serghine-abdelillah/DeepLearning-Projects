@@ -49,3 +49,10 @@ pip install -r requirements.txt
 python app.py
 ```
 Then open the Gradio interface link in your browser and enter any URL to test.
+
+## 🧠 Model Overview
+- **Model:** LSTM (Long Short-Term Memory)
+- **Input:** 21 handcrafted URL features
+- **Output:** Binary classification (Benign / Malicious)
+- **Activation:** Sigmoid
+- **Threshold:** 0.85 (above = Benign, below = Malicious)
