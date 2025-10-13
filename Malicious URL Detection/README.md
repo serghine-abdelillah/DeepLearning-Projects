@@ -48,3 +48,4 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+Then open the Gradio interface link in your browser and enter any URL to test.
