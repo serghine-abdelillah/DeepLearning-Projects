@@ -38,5 +38,8 @@ git clone https://github.com/serghine-abdelillah/DeepLearning-Projects.git
 cd Malicious URL Detection
 ```
 ```bash
+cd Malicious_URL_Detector
+```
+```bash
 pip install -r requirements.txt
 ```
