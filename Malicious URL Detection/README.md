@@ -1,6 +1,6 @@
 # 🛡️ Malicious URL Detection
 
-This project is a deep learning–powered web application that detects whether a given URL is benign or malicious using a deep learning model (LSTM).
+This project is a deep learning powered web application that detects whether a given URL is benign or malicious using a deep learning model (LSTM).
 It analyzes URL patterns and structural features to help users identify phishing or harmful websites before visiting them.
 
 ---
@@ -11,8 +11,8 @@ It analyzes URL patterns and structural features to help users identify phishing
 - 🧠 Extracts more than 20 URL-based features such as length, special characters, and domain patterns
 - 🌐 Built with Gradio for an intuitive web interface
 - 🧾 Predicts with clear labels:
-- - ✅ Benign — Safe to browse
-- - ⚠️ Malicious — Potentially harmful
+- - ✅ Benign : Safe to browse
+- - ⚠️ Malicious : Potentially harmful
 
 ## 🧩 How It Works
 - The model analyzes URLs based on several features, including:
