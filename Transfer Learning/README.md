@@ -3,3 +3,5 @@ This project focuses on implementing a Convolutional Neural Network (CNN) for **
 ## 📌 Project Overview
 - Use chest X-ray images and corresponding mask annotations
 - Build and train a deep learning segmentation model
+- Evaluate the model using standard segmentation metrics
+Visualize predictions vs. ground-truth masks
