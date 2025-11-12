@@ -5,3 +5,4 @@ This project focuses on implementing a Convolutional Neural Network (CNN) for **
 - Build and train a deep learning segmentation model
 - Evaluate the model using standard segmentation metrics
 - Visualize predictions vs. ground-truth masks
+## 🧠 Model Architecture
