@@ -7,7 +7,7 @@ This project focuses on implementing a Convolutional Neural Network (CNN) for **
 - Visualize predictions vs. ground-truth masks
 ## 🧠 Model Architecture
 A custom **U-Net-style CNN** segmentation model was developed using:
-- Convolutional Layers
-- MaxPooling & Upsampling
-- Skip Connections
-- Sigmoid Output for binary mask prediction
+- **Convolutional Layers**
+- **MaxPooling & Upsampling**
+- **Skip Connections**
+- **Sigmoid Output** for binary mask prediction
