@@ -8,5 +8,4 @@ This project focuses on implementing a Convolutional Neural Network (CNN) for **
 ## 🧠 Model Architecture
 A custom **U-Net-style CNN** segmentation model was developed using:
 - Convolutional Layers
-
-MaxPooling & Upsampling
+- MaxPooling & Upsampling
