@@ -10,5 +10,4 @@ A custom **U-Net-style CNN** segmentation model was developed using:
 - Convolutional Layers
 - MaxPooling & Upsampling
 - Skip Connections
-
-Sigmoid Output for binary mask prediction
+- Sigmoid Output for binary mask prediction
