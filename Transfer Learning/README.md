@@ -13,3 +13,8 @@ A custom **U-Net-style CNN** segmentation model was developed using:
 - **Sigmoid Output** for binary mask prediction
 ## 🗂 Dataset
 - COVID-19 Radiography Dataset
+- Contains:
+
+X-ray Images (COVID cases)
+
+Ground-truth segmentation masks
