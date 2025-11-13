@@ -12,3 +12,4 @@ A custom **U-Net-style CNN** segmentation model was developed using:
 - **Skip Connections**
 - **Sigmoid Output** for binary mask prediction
 ## 🗂 Dataset
+- COVID-19 Radiography Dataset
