@@ -18,3 +18,5 @@ A custom **U-Net-style CNN** segmentation model was developed using:
 X-ray Images (COVID cases)
 
 Ground-truth segmentation masks
+
+Dataset not included in repo — download link available in notebook.
