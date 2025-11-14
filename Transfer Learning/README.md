@@ -21,3 +21,9 @@ A custom **U-Net-style CNN** segmentation model was developed using:
 
 ## 🧪 Evaluation Metrics
 The segmentation performance was assessed using:
+| Metric                            | Description                                       |
+| --------------------------------- | ------------------------------------------------- |
+| **Dice Coefficient**              | Measures overlap between predicted and true masks |
+| **IoU (Intersection over Union)** | Ratio of common area vs. union area               |
+| **Pixel-wise Accuracy**           | Correctly segmented pixels percentage             |
+
