@@ -18,3 +18,5 @@ A custom **U-Net-style CNN** segmentation model was developed using:
   - Ground-truth segmentation masks
 
 ### Please Note that the Dataset is not included in the repo so please download if from the link available in the notebook.
+
+## 🧪 Evaluation Metrics
