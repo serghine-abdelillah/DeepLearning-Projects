@@ -28,7 +28,7 @@ The segmentation performance was assessed using:
 | **Pixel-wise Accuracy**           | Correctly segmented pixels percentage             |  **98%**           |
 
 ## 🛠 Tools & Technologies
-**- Python
-- TensorFlow / Keras
-- NumPy, Matplotlib
-- scikit-learn**
+- **Python**
+- **TensorFlow / Keras**
+- **NumPy, Matplotlib**
+- **scikit-learn**
