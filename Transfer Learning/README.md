@@ -27,4 +27,4 @@ The segmentation performance was assessed using:
 | **IoU (Intersection over Union)** | Ratio of common area vs. union area               |  **90%**           |
 | **Pixel-wise Accuracy**           | Correctly segmented pixels percentage             |  **98%**           |
 
-
+## 🛠 Tools & Technologies
