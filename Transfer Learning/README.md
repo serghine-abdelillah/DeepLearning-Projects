@@ -36,3 +36,10 @@ The segmentation performance was assessed using:
   <!--- ======== Consider TO add the running section  --->
 
 ## 📊 Results Visualization
+The notebook displays:
+
+✅ Original Image
+✅ Ground-truth Mask
+✅ Predicted Mask
+
+Allowing qualitative evaluation of segmentation success.
