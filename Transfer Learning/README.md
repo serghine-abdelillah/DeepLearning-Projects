@@ -32,3 +32,7 @@ The segmentation performance was assessed using:
 - **TensorFlow / Keras**
 - **NumPy, Matplotlib**
 - **scikit-learn**
+
+  <!--- ======== Consider TO add the running section  --->
+
+## 📊 Results Visualization
