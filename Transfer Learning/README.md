@@ -38,8 +38,8 @@ The segmentation performance was assessed using:
 ## 📊 Results Visualization
 The notebook displays:
 
-✅ Original Image
-✅ Ground-truth Mask
+✅ Original Image\
+✅ Ground-truth Mask\
 ✅ Predicted Mask
 
 Allowing qualitative evaluation of segmentation success.
