@@ -34,6 +34,7 @@ The segmentation performance was assessed using:
 - **scikit-learn**
 
   <!--- ======== Consider TO add the running section  --->
+## ▶️ How to Run
 
 ## 📊 Results Visualization
 The notebook displays:
