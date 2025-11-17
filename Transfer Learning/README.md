@@ -47,3 +47,5 @@ Allowing qualitative evaluation of segmentation success.
 ## 🎯 Learning Outcomes
 - Understanding preprocessing for medical imaging
 - Building a CNN for segmentation tasks
+- Applying Dice & IoU metrics
+- Visualizing and analyzing segmentation performance
