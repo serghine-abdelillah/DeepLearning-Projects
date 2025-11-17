@@ -45,3 +45,5 @@ The notebook displays:
 Allowing qualitative evaluation of segmentation success.
 
 ## 🎯 Learning Outcomes
+- Understanding preprocessing for medical imaging
+- Building a CNN for segmentation tasks
