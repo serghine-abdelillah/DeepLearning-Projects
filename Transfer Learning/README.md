@@ -43,3 +43,5 @@ The notebook displays:
 ✅ Predicted Mask
 
 Allowing qualitative evaluation of segmentation success.
+
+## 🎯 Learning Outcomes
