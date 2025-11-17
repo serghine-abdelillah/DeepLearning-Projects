@@ -33,8 +33,12 @@ The segmentation performance was assessed using:
 - **NumPy, Matplotlib**
 - **scikit-learn**
 
-  <!--- ======== Consider TO add the running section  --->
+  <!--- ======== Consider TO add the running section --pip install -r requirements.txt  --->
 ## ▶️ How to Run
+```bash
+jupyter notebook Solution.ipynb
+
+```
 
 ## 📊 Results Visualization
 The notebook displays:
