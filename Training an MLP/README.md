@@ -11,7 +11,7 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
     - Select the best model and evaluate on test data
     - Visualize learning curves + prediction samples
 ## Dataset
-**MNIST** : 70,000 grayscale handwritten digits
-**Images** : 28×28 resolution
-**Training** : 60,000
+**MNIST** : 70,000 grayscale handwritten digits\
+**Images** : 28×28 resolution\
+**Training** : 60,000\
 **Testing** : 10,000
