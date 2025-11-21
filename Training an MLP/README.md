@@ -8,3 +8,5 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
   - Training and validation performance
   - Convergence speed
   - Execution time
+    - Select the best model and evaluate on test data
+    - Visualize learning curves + prediction samples
