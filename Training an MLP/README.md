@@ -4,3 +4,9 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 - Load and preprocess MNIST dataset
 - Build an MLP classifier using TensorFlow/Keras
 - Train using multiple optimization strategies
+- Compare:
+  - Training and validation performance
+
+Convergence speed
+
+Execution time
