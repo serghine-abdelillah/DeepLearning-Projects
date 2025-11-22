@@ -22,3 +22,6 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 | 1     | Dense (input layer)  | 128   | ReLU       |
 | 2     | Dense (hidden layer) | 64    | ReLU       |
 | 3     | Dense (output layer) | 10    | Softmax    |
+
+- Loss Function : **Sparse Categorical Crossentropy**
+- Evaluation Metric : **Accuracy**
