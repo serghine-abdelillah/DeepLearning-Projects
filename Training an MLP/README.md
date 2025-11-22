@@ -17,3 +17,8 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 **Testing** : 10,000
 
 ## MLP Architecture
+| Layer | Type                 | Units | Activation |
+| ----- | -------------------- | ----- | ---------- |
+| 1     | Dense (input layer)  | 128   | ReLU       |
+| 2     | Dense (hidden layer) | 64    | ReLU       |
+| 3     | Dense (output layer) | 10    | Softmax    |
