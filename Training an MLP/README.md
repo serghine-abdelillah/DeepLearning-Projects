@@ -15,3 +15,5 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 **Images** : 28×28 resolution\
 **Training** : 60,000\
 **Testing** : 10,000
+
+## MLP Architecture
