@@ -25,3 +25,5 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 
 - Loss Function : **Sparse Categorical Crossentropy**
 - Evaluation Metric : **Accuracy**
+
+## Compared Optimization Strategies
