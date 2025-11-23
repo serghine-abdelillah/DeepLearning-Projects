@@ -27,3 +27,13 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 - Evaluation Metric : **Accuracy**
 
 ## Compared Optimization Strategies
+| Optimizer       | Batch Size | Epochs | Extra Parameters |
+| --------------- | ---------- | ------ | ---------------- |
+| SGD             | 1          | 5      | -                |
+| Mini-Batch SGD  | 64         | 50     | -                |
+| Full-Batch SGD  | Full set   | 50     | -                |
+| SGD w/ Decay    | 64         | 50     | Decay = 1e-6     |
+| SGD w/ Momentum | 64         | 50     | Momentum = 0.9   |
+| Adam            | 64         | 50     | lr = 0.001       |
+| RMSProp         | 64         | 50     | lr = 0.001       |
+
