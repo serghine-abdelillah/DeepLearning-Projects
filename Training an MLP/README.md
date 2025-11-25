@@ -38,3 +38,4 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 | RMSProp         | 64         | 50     | lr = 0.001       |
 
 ## Model Selection
+After training, all models were evaluated on validation set and the best performer was automatically selected and saved as:
