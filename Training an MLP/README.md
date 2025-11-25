@@ -37,3 +37,4 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 | Adam            | 64         | 50     | lr = 0.001       |
 | RMSProp         | 64         | 50     | lr = 0.001       |
 
+## Model Selection
