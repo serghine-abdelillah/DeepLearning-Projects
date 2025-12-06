@@ -44,3 +44,7 @@ Predictions were tested on sample test images.
 
 ## Visualizations
 The notebook includes:
+- Loss curves for each optimizer
+- Accuracy curves for each optimizer
+- Training time comparison (bar chart)
+- Predicted classes on sample images
