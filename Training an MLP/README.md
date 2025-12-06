@@ -41,3 +41,5 @@ This project focuses on building a **Multilayer Perceptron (MLP)** neural networ
 After training, all models were evaluated on validation set and the best performer was automatically selected and saved as:
 **```best_mnist_model.h5```**
 Predictions were tested on sample test images.
+
+## Visualizations
