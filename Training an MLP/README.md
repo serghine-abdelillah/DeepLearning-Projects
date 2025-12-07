@@ -48,3 +48,5 @@ The notebook includes:
 - Accuracy curves for each optimizer
 - Training time comparison (bar chart)
 - Predicted classes on sample images
+
+## Technologies Used
