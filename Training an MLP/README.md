@@ -50,3 +50,8 @@ The notebook includes:
 - Predicted classes on sample images
 
 ## Technologies Used
+- Python
+- TensorFlow / Keras
+- NumPy
+- scikit-learn
+- Matplotlib
