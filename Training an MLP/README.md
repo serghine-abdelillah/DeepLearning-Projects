@@ -57,3 +57,7 @@ The notebook includes:
 - Matplotlib
 
 ## How to Run
+```bash
+jupyter notebook Solution.ipynb
+
+```
