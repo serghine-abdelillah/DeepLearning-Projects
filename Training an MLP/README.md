@@ -62,3 +62,8 @@ jupyter notebook Solution.ipynb
 
 ```
 ## Future Improvements
+- Test more architectures (CNNs, deeper MLPs)
+- Hyperparameter tuning grid search
+- Batch normalization & dropout
+- Learning rate schedulers
+- Confusion matrix visualization
