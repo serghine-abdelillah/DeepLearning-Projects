@@ -55,3 +55,5 @@ The notebook includes:
 - NumPy
 - scikit-learn
 - Matplotlib
+
+## How to Run
