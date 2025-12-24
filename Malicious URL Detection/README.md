@@ -1,15 +1,18 @@
 # 🛡️ Malicious URL Detection
 
-This project is a deep learning–powered web application that detects whether a given URL is benign or malicious using a deep learning model (LSTM).
+This project is a deep learning powered web application that detects whether a given URL is benign or malicious using a deep learning model (LSTM).
 It analyzes URL patterns and structural features to help users identify phishing or harmful websites before visiting them.
 
+---
+## DEMO : [Link](https://huggingface.co/spaces/AbdelillahSerghine/Malicious_URL_Detector)
+---
 ## 🚀 Features
 - 🔍 Real-time URL classification using a trained LSTM model
 - 🧠 Extracts more than 20 URL-based features such as length, special characters, and domain patterns
 - 🌐 Built with Gradio for an intuitive web interface
 - 🧾 Predicts with clear labels:
-- - ✅ Benign — Safe to browse
-- - ⚠️ Malicious — Potentially harmful
+- - ✅ Benign : Safe to browse
+- - ⚠️ Malicious : Potentially harmful
 
 ## 🧩 How It Works
 - The model analyzes URLs based on several features, including:
@@ -38,5 +41,24 @@ git clone https://github.com/serghine-abdelillah/DeepLearning-Projects.git
 cd Malicious URL Detection
 ```
 ```bash
+cd Malicious_URL_Detector
+```
+```bash
 pip install -r requirements.txt
 ```
+
+## ▶️ Usage
+```bash
+python app.py
+```
+Then open the Gradio interface link in your browser and enter any URL to test.
+
+## 🧠 Model Overview
+- **Model:** LSTM (Long Short-Term Memory)
+- **Input:** 21 handcrafted URL features
+- **Output:** Binary classification (Benign / Malicious)
+- **Activation:** Sigmoid
+- **Threshold:** 0.85 (above = Benign, below = Malicious)
+
+## 🤝 Contributing
+Pull requests are welcome! please open an issue first to discuss what you’d like to improve.
