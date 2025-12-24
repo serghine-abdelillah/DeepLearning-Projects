@@ -136,6 +136,7 @@ def extract_features(url):
 def predict_url(url):
     features = extract_features(url)
     pred = model.predict(features)[0][0]  # binary classification with sigmoid
+    print(pred)
     label = "Bengin" if pred > 0.85 else "Malicious"
     return f"Prediction: {label} )"
 
