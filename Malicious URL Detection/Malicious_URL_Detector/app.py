@@ -154,11 +154,7 @@
 
 
 # ========================= Second Version =========================
-import subprocess
-import sys
 
-subprocess.check_call([sys.executable, "-m", "pip", "install", "joblib"])
-subprocess.check_call([sys.executable, "-m", "pip", "install", "scikit-learn"])
 
 import gradio as gr
 import re

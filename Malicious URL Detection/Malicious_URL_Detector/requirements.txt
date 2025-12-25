@@ -1,3 +1,4 @@
 tld
-googlesearch-python
+joblib
+scikit-learn
 tensorflow
