@@ -284,38 +284,27 @@ def predict_url(url):
         return "🟡 Suspicious"
 
 
+iface = gr.Interface(
+    fn=predict_url,
+    inputs=gr.Textbox(label="Enter URL", placeholder="https://example.com", lines=1, max_lines=1),
+    outputs=gr.Textbox(label="Prediction", lines=1, max_lines=1),
+    title="Malicious URL Detector (LSTM + Scaler)",
+    description="Feature-based LSTM model for malicious URL detection.",
 
-with gr.Blocks() as iface:
-    gr.Markdown("### Examples to test")
-    gr.Markdown(
-        "- `nugget.ca/ArticleDisplay.aspx?archive=true` (benign)\n"
-        "- `br-icloud.com.br` (malicious)\n"
-        "- `http://www.pashminaonline.com/pure-pashminas` (malicious)\n"
-        "- `https://chatgpt.com` (benign)\n"
-        "- `http://www.marketingbyinternet.com/mo/e56508df639f6ce7d55c81ee3fcd5ba8/` (malicious)"
-    )
-
-    gr.Interface(
-        fn=predict_url,
-        inputs=gr.Textbox(label="Enter URL", placeholder="https://example.com", lines=1, max_lines=1),
-        outputs=gr.Textbox(label="Prediction", lines=1, max_lines=1),
-        title="Malicious URL Detector (LSTM + Scaler)",
-        description="Feature-based LSTM model for malicious URL detection.",
-
-        examples=[
-            ["nugget.ca/ArticleDisplay.aspx?archive=true&e=1160966"],  # benign
-            ["br-icloud.com.br"],                                     # malicious
-            ["http://www.pashminaonline.com/pure-pashminas"],         # malicious
-            ["https://chatgpt.com"],                                  # benign
-            ["https://google.com"],  
-            ["http://www.designeremdoces.com/components/com_contact/ggdrives/"],  # malicious
-            ["facebook.com/opalhilldrive"],  # benign
-            ["citiprepaid-salarysea-at.tk"],                                 # malicious
-            ["facebook.com"],                                  # benign
-            ["telegram.org"],                                  # benign
-            ["http://www.marketingbyinternet.com/mo/e56508df639f6ce7d55c81ee3fcd5ba8/"]  # malicious
-        ],examples_per_page=11
-    )
+    examples=[
+        ["nugget.ca/ArticleDisplay.aspx?archive=true&e=1160966"],  # benign
+        ["br-icloud.com.br"],                                     # malicious
+        ["http://www.pashminaonline.com/pure-pashminas"],         # malicious
+        ["https://chatgpt.com"],                                  # benign
+        ["https://google.com"],  
+        ["http://www.designeremdoces.com/components/com_contact/ggdrives/"],  # malicious
+        ["facebook.com/opalhilldrive"],  # benign
+        ["citiprepaid-salarysea-at.tk"],                                 # malicious
+        ["facebook.com"],                                  # benign
+        ["telegram.org"],                                  # benign
+        ["http://www.marketingbyinternet.com/mo/e56508df639f6ce7d55c81ee3fcd5ba8/"]  # malicious
+    ],examples_per_page=11
+)
 
 iface.launch()
 
