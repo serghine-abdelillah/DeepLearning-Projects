@@ -168,7 +168,7 @@ import joblib
 from urllib.parse import urlparse
 from tld import get_tld
 
-model = tf.keras.models.load_model("LSTM.h5")
+model = tf.keras.models.load_model("LSTM_enhanced.h5")
 scaler = joblib.load("scaler.pkl")   # MUST be the original scaler
 
 def having_ip_address(url):
